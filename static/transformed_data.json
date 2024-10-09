@@ -1,0 +1,222 @@
+{
+  "letter": [
+    {
+      "real_transcript": "a",
+      "ipa_transcript": "ə"
+    },
+    {
+      "real_transcript": "b",
+      "ipa_transcript": "bi"
+    },
+    {
+      "real_transcript": "c",
+      "ipa_transcript": "si"
+    },
+    {
+      "real_transcript": "d",
+      "ipa_transcript": "di"
+    },
+    {
+      "real_transcript": "e",
+      "ipa_transcript": "i"
+    },
+    {
+      "real_transcript": "f",
+      "ipa_transcript": "ɛf"
+    },
+    {
+      "real_transcript": "g",
+      "ipa_transcript": "ʤi"
+    },
+    {
+      "real_transcript": "h",
+      "ipa_transcript": "eɪʧ"
+    },
+    {
+      "real_transcript": "i",
+      "ipa_transcript": "aɪ"
+    },
+    {
+      "real_transcript": "j",
+      "ipa_transcript": "ʤeɪ"
+    },
+    {
+      "real_transcript": "k",
+      "ipa_transcript": "keɪ"
+    },
+    {
+      "real_transcript": "l",
+      "ipa_transcript": "ɛl"
+    },
+    {
+      "real_transcript": "m",
+      "ipa_transcript": "ɛm"
+    },
+    {
+      "real_transcript": "n",
+      "ipa_transcript": "ɛn"
+    },
+    {
+      "real_transcript": "o",
+      "ipa_transcript": "oʊ"
+    },
+    {
+      "real_transcript": "p",
+      "ipa_transcript": "pi"
+    },
+    {
+      "real_transcript": "q",
+      "ipa_transcript": "kju"
+    },
+    {
+      "real_transcript": "r",
+      "ipa_transcript": "ɑr"
+    },
+    {
+      "real_transcript": "s",
+      "ipa_transcript": "ɛs"
+    },
+    {
+      "real_transcript": "t",
+      "ipa_transcript": "ti"
+    },
+    {
+      "real_transcript": "u",
+      "ipa_transcript": "ju"
+    },
+    {
+      "real_transcript": "v",
+      "ipa_transcript": "vi"
+    },
+    {
+      "real_transcript": "w",
+      "ipa_transcript": "ˈdəbəlju"
+    },
+    {
+      "real_transcript": "x",
+      "ipa_transcript": "ɛks"
+    },
+    {
+      "real_transcript": "y",
+      "ipa_transcript": "waɪ"
+    },
+    {
+      "real_transcript": "z",
+      "ipa_transcript": "zi"
+    }
+  ],
+  "beginner": [
+    {
+      "real_transcript": "Hello",
+      "ipa_transcript": "hɛˈloʊ"
+    },
+    {
+      "real_transcript": "Student",
+      "ipa_transcript": "ˈstudənt"
+    },
+    {
+      "real_transcript": "Boy",
+      "ipa_transcript": "bɔɪ"
+    },
+    {
+      "real_transcript": "Man",
+      "ipa_transcript": "mæn"
+    },
+    {
+      "real_transcript": "Girl",
+      "ipa_transcript": "gərl"
+    },
+    {
+      "real_transcript": "Climate",
+      "ipa_transcript": "ˈklaɪmɪt"
+    },
+    {
+      "real_transcript": "Tool",
+      "ipa_transcript": "tul"
+    },
+    {
+      "real_transcript": "Learn",
+      "ipa_transcript": "lərn"
+    },
+    {
+      "real_transcript": "School",
+      "ipa_transcript": "skul"
+    }
+  ],
+  "medium": [
+    {
+      "real_transcript": "Hello, how are you today?",
+      "ipa_transcript": "hɛˈloʊ, haʊ ər ju təˈdeɪ?"
+    },
+    {
+      "real_transcript": "This is a simple and clear sentence.",
+      "ipa_transcript": "ðɪs ɪz ə ˈsɪmpəl ənd klɪr ˈsɛntəns."
+    },
+    {
+      "real_transcript": "Welcome to the AI pronunciation tool for everyone.",
+      "ipa_transcript": "ˈwɛlkəm tɪ ðə eɪaɪ prəˌnənsiˈeɪʃən tul fər ˈɛvriˌwən."
+    },
+    {
+      "real_transcript": "I like to learn new words.",
+      "ipa_transcript": "aɪ laɪk tɪ lərn nu wərdz."
+    },
+    {
+      "real_transcript": "Can you help me with this task?",
+      "ipa_transcript": "kən ju hɛlp mi wɪθ ðɪs tæsk?"
+    },
+    {
+      "real_transcript": "Let's practice together!",
+      "ipa_transcript": "lɛts ˈpræktɪs təˈgɛðər!"
+    },
+    {
+      "real_transcript": "The weather today is cloudy, and there is a chance of rain.",
+      "ipa_transcript": "ðə ˈwɛðər təˈdeɪ ɪz ˈklaʊdi, ənd ðɛr ɪz ə ʧæns əv reɪn."
+    },
+    {
+      "real_transcript": "Machine learning models are trained using a large amount of data to make predictions.",
+      "ipa_transcript": "məˈʃin ˈlərnɪŋ ˈmɑdəlz ər treɪnd ˈjuzɪŋ ə lɑrʤ əˈmaʊnt əv ˈdætə tɪ meɪk priˈdɪkʃənz."
+    },
+    {
+      "real_transcript": "I enjoy reading books in the evening while sipping tea.",
+      "ipa_transcript": "aɪ ˌɛnˈʤɔɪ ˈrɛdɪŋ bʊks ɪn ðə ˈivnɪŋ waɪl ˈsɪpɪŋ ti."
+    },
+    {
+      "real_transcript": "The cat sits on the window sill, watching the birds outside.",
+      "ipa_transcript": "ðə kæt sɪts ɔn ðə ˈwɪndoʊ sɪl, ˈwɑʧɪŋ ðə bərdz ˈaʊtˈsaɪd."
+    },
+    {
+      "real_transcript": "Learning new languages can be a fun and rewarding experience.",
+      "ipa_transcript": "ˈlərnɪŋ nu ˈlæŋgwɪʤɪz kən bi ə fən ənd rɪˈwɔrdɪŋ ɪkˈspɪriəns."
+    },
+    {
+      "real_transcript": "She likes to paint beautiful pictures in her spare time.",
+      "ipa_transcript": "ʃi laɪks tɪ peɪnt ˈbjutəfəl ˈpɪkʧərz ɪn hər spɛr taɪm."
+    }
+  ],
+  "hard": [
+    {
+      "real_transcript": "The quantum mechanics theory explains the behavior of particles on a microscopic scale, which is crucial for understanding the universe.",
+      "ipa_transcript": "ðə kˈwɑntəm məˈkænɪks ˈθɪri ɪkˈspleɪnz ðə bɪˈheɪvjər əv ˈpɑrtɪkəlz ɔn ə ˌmaɪkrəˈskɑpɪk skeɪl, wɪʧ ɪz ˈkruʃəl fər ˌəndərˈstændɪŋ ðə ˈjunəˌvərs."
+    },
+    {
+      "real_transcript": "Artificial intelligence is revolutionizing multiple industries, including healthcare, education, and finance, leading to unprecedented advancements in technology.",
+      "ipa_transcript": "ˌɑrtəˈfɪʃəl ˌɪnˈtɛləʤəns ɪz ˌrɛvəˈluʃəˌnaɪzɪŋ ˈməltəpəl ˈɪndəstriz, ˌɪnˈkludɪŋ ˈhɛlθˌkɛr, ˌɛʤəˈkeɪʃən, ənd ˈfaɪˌnæns, ˈlidɪŋ tɪ ənˈprɛsɪˌdɛntɪd ədˈvænsmənts ɪn tɛkˈnɑləʤi."
+    },
+    {
+      "real_transcript": "The complexity of deep learning models can be overwhelming for beginners, especially when trying to grasp the intricacies of neural networks and their applications.",
+      "ipa_transcript": "ðə kəmˈplɛksɪti əv dip ˈlərnɪŋ ˈmɑdəlz kən bi ˌoʊvərˈwɛlmɪŋ fər bɪˈgɪnərz, əˈspɛʃəli wɪn traɪɪŋ tɪ græsp ðə ˈɪntrəkəsiz əv ˈnʊrəl ˈnɛtˌwərks ənd ðɛr ˌæpləˈkeɪʃənz."
+    },
+    {
+      "real_transcript": "In today's fast-paced world, effective communication skills are more important than ever, enabling individuals to express their ideas clearly and persuasively across various platforms.",
+      "ipa_transcript": "ɪn ˈtudeɪz ˌfæstˈpeɪst wərld, ˈifɛktɪv kəmˌjunəˈkeɪʃən skɪlz ər mɔr ˌɪmˈpɔrtənt ðən ˈɛvər, ɪˈneɪbəlɪŋ ˌɪndəˈvɪʤəwəlz tɪ ɪkˈsprɛs ðɛr aɪˈdiəz ˈklɪrli ənd pərsˈweɪsɪvli əˈkrɔs ˈvɛriəs ˈplætˌfɔrmz."
+    },
+    {
+      "real_transcript": "Understanding the principles of physics and mathematics is essential for students pursuing careers in engineering and the sciences, as these fields often intertwine in innovative ways.",
+      "ipa_transcript": "ˌəndərˈstændɪŋ ðə ˈprɪnsəpəlz əv ˈfɪzɪks ənd ˌmæθəˈmætɪks ɪz ɛˈsɛnʃəl fər ˈstudənts pərˈsuɪŋ kərɪrz ɪn ˈɛnʤəˈnɪrɪŋ ənd ðə ˈsaɪənsɪz, ɛz ðiz fildz ˈɔfən ˌɪntərtˈwaɪn ɪn ˈɪnəˌveɪtɪv weɪz."
+    },
+    {
+      "real_transcript": "The impact of climate change on global ecosystems is a pressing concern that requires immediate action and collaboration from individuals, governments, and organizations worldwide to mitigate its effects.",
+      "ipa_transcript": "ðə ˌɪmˈpækt əv ˈklaɪmɪt ʧeɪnʤ ɔn ˈgloʊbəl ˈikoʊˌsɪstəmz ɪz ə ˈprɛsɪŋ kənˈsərn ðət rikˈwaɪərz ˌɪˈmiˌdiət ˈækʃən ənd kəˌlæbərˈeɪʃən frəm ˌɪndəˈvɪʤəwəlz, ˈgəvərnmənts, ənd ˌɔrgənəˈzeɪʃənz ˈwərldˈwaɪd tɪ ˈmɪtəˌgeɪt ɪts ˈifɛkts."
+    }
+  ]
+}

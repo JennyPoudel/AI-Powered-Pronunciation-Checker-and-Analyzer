@@ -1,0 +1,36 @@
+{
+    "letter": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"],
+    "beginner": [
+        "Hello",
+        "Student",
+        "Boy",
+        "Man",
+        "Girl",
+        "Climate",
+        "Tool",
+        "Learn",
+        "School"
+    ],
+    "medium": [
+        "Hello, how are you today?",
+        "This is a simple and clear sentence.",
+        "Welcome to the AI pronunciation tool for everyone.",
+        "I like to learn new words.",
+        "Can you help me with this task?",
+        "Let's practice together!",
+        "The weather today is cloudy, and there is a chance of rain.",
+        "Machine learning models are trained using a large amount of data to make predictions.",
+        "I enjoy reading books in the evening while sipping tea.",
+        "The cat sits on the window sill, watching the birds outside.",
+        "Learning new languages can be a fun and rewarding experience.",
+        "She likes to paint beautiful pictures in her spare time."
+    ],
+    "hard": [
+        "The quantum mechanics theory explains the behavior of particles on a microscopic scale, which is crucial for understanding the universe.",
+        "Artificial intelligence is revolutionizing multiple industries, including healthcare, education, and finance, leading to unprecedented advancements in technology.",
+        "The complexity of deep learning models can be overwhelming for beginners, especially when trying to grasp the intricacies of neural networks and their applications.",
+        "In today's fast-paced world, effective communication skills are more important than ever, enabling individuals to express their ideas clearly and persuasively across various platforms.",
+        "Understanding the principles of physics and mathematics is essential for students pursuing careers in engineering and the sciences, as these fields often intertwine in innovative ways.",
+        "The impact of climate change on global ecosystems is a pressing concern that requires immediate action and collaboration from individuals, governments, and organizations worldwide to mitigate its effects."
+    ]
+}
