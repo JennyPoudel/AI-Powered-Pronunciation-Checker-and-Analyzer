@@ -35,6 +35,6 @@ python webApp.py
 
 ## Screenshots
 
-![App Screenshot]("file:///C:/Users/acer/Downloads/my ss.png")
+![App Screenshot]("https://github.com/JennyPoudel/AI-Powered-Pronunciation-Checker-and-Analyzer/blob/master/my%20ss.png")
 
 
